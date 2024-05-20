@@ -14,8 +14,8 @@ Git
 Run
 
 ```
-git clone https://github.com/Night1099/PBRHeightBatch
-cd PBRHeightBatch
+git clone https://github.com/Night1099/PBRRoughnessBatch
+cd PBRRoughnessBatch
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 pip install -r requirements.txt
 ```
